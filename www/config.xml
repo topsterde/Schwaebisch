@@ -29,4 +29,5 @@
     <gap:plugin name="org.apache.cordova.inappbrowser" />
     <icon src="deutsch-schwaebisch.png" />
     <access origin="*" />
+	<allow-navigation href="http://www.topster.de/*" />
 </widget>
